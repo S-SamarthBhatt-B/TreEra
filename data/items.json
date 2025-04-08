@@ -1,0 +1,277 @@
+[
+  {
+    "name": "Laptop",
+    "type": "tool",
+    "price": 1000,
+    "sellPrice": 700,
+    "description": "💻 Helps with programming and tech jobs",
+    "jobBoost": ["developer"],
+    "emoji": "💻"
+  },
+  {
+    "name": "Pickaxe",
+    "type": "tool",
+    "price": 800,
+    "sellPrice": 560,
+    "description": "⛏️ Used for mining jobs",
+    "jobBoost": ["miner"],
+    "emoji": "⛏️"
+  },
+  {
+    "name": "Axe",
+    "type": "tool",
+    "price": 700,
+    "sellPrice": 490,
+    "description": "🪓 Used for lumberjack jobs",
+    "jobBoost": ["lumberjack"],
+    "emoji": "🪓"
+  },
+  {
+    "name": "Shovel",
+    "type": "tool",
+    "price": 500,
+    "sellPrice": 350,
+    "description": "🧹 Used for digging jobs",
+    "jobBoost": ["gardener"],
+    "emoji": "🧹"
+  },
+  {
+    "name": "Hoe",
+    "type": "tool",
+    "price": 600,
+    "sellPrice": 420,
+    "description": "🌾 Used in farming",
+    "jobBoost": ["farmer"],
+    "emoji": "🌾"
+  },
+  {
+    "name": "Fishing Rod",
+    "type": "tool",
+    "price": 750,
+    "sellPrice": 525,
+    "description": "🎣 Used for fishing jobs",
+    "jobBoost": ["fisherman"],
+    "emoji": "🎣"
+  },
+  {
+    "name": "Wrench",
+    "type": "tool",
+    "price": 850,
+    "sellPrice": 595,
+    "description": "🔧 Used in mechanic-related jobs",
+    "jobBoost": ["mechanic"],
+    "emoji": "🔧"
+  },
+  {
+    "name": "Paintbrush",
+    "type": "tool",
+    "price": 650,
+    "sellPrice": 455,
+    "description": "🎨 Used in artist and designer jobs",
+    "jobBoost": ["artist", "designer"],
+    "emoji": "🎨"
+  },
+  {
+    "name": "Camera",
+    "type": "tool",
+    "price": 1200,
+    "sellPrice": 840,
+    "description": "📷 Used for photography jobs",
+    "jobBoost": ["photographer"],
+    "emoji": "📷"
+  },
+  {
+    "name": "Pet Food",
+    "type": "food",
+    "price": 300,
+    "sellPrice": 200,
+    "description": "🍖 A tasty treat for your pet. Increases happiness by 10%.",
+    "emoji": "🍖"
+  },
+  {
+    "name": "Catnip",
+    "type": "food",
+    "price": 200,
+    "sellPrice": 140,
+    "description": "🌿 A special treat for cats. Increases happiness by 15%.",
+    "emoji": "🌿"
+  },
+  {
+    "name": "Dog Treats",
+    "type": "food",
+    "price": 250,
+    "sellPrice": 175,
+    "description": "🍖 Special treats for dogs. Increases happiness by 20%.",
+    "emoji": "🍖"
+  },
+  {
+    "name": "Fish Food",
+    "type": "food",
+    "price": 150,
+    "sellPrice": 105,
+    "description": "🐟 Food for fish. Increases happiness by 10%.",
+    "emoji": "🐟"
+  },
+  {
+    "name": "Bird Seed",
+    "type": "food",
+    "price": 180,
+    "sellPrice": 126,
+    "description": "🌾 Food for birds. Increases happiness by 12%.",
+    "emoji": "🌾"
+  },
+  {
+    "name": "Carrot Snack",
+    "type": "food",
+    "price": 180,
+    "sellPrice": 126,
+    "description": "🥕 Favorite snack for rabbits. Increases happiness by 15%.",
+    "emoji": "🥕"
+  },
+  {
+    "name": "Cheese Treat",
+    "type": "food",
+    "price": 220,
+    "sellPrice": 154,
+    "description": "🧀 A yummy treat that pets love. Increases happiness by 18%.",
+    "emoji": "🧀"
+  },
+  {
+    "name": "Deluxe Kibble",
+    "type": "food",
+    "price": 350,
+    "sellPrice": 245,
+    "description": "🥩 Premium food mix for all pets. Increases happiness by 25%.",
+    "emoji": "🥩"
+  },
+  {
+    "name": "Fish Tank",
+    "type": "pet",
+    "price": 1200,
+    "sellPrice": 840,
+    "description": "🐠 Increases happiness of fish by 20%",
+    "ability": "happiness_increase",
+    "increasePercent": 20,
+    "emoji": "🐠"
+  },
+  {
+    "name": "Bird Cage",
+    "type": "pet",
+    "price": 1100,
+    "sellPrice": 770,
+    "description": "🐦 Increases happiness of birds by 15%",
+    "ability": "happiness_increase",
+    "increasePercent": 15,
+    "emoji": "🐦"
+  },
+  {
+    "name": "Dog House",
+    "type": "pet",
+    "price": 1300,
+    "sellPrice": 910,
+    "description": "🏠 Increases happiness of dogs by 25%",
+    "ability": "happiness_increase",
+    "increasePercent": 25,
+    "emoji": "🏠"
+  },
+  {
+    "name": "Cat Tree",
+    "type": "pet",
+    "price": 1400,
+    "sellPrice": 980,
+    "description": "🐱 Increases happiness of cats by 30%",
+    "ability": "happiness_increase",
+    "increasePercent": 30,
+    "emoji": "🐱"
+  },
+  {
+    "name": "Fish Bowl",
+    "type": "pet",
+    "price": 900,
+    "sellPrice": 630,
+    "description": "🐟 Increases happiness of fish by 10%",
+    "ability": "happiness_increase",
+    "increasePercent": 10,
+    "emoji": "🐟"
+  },
+  {
+    "name": "Bird Feeder",
+    "type": "pet",
+    "price": 850,
+    "sellPrice": 595,
+    "description": "🐦 Increases happiness of birds by 12%",
+    "ability": "happiness_increase",
+    "increasePercent": 12,
+    "emoji": "🐦"
+  },
+  {
+    "name": "Fish Net",
+    "type": "pet",
+    "price": 700,
+    "sellPrice": 490,
+    "description": "🐠 Increases happiness of fish by 8%",
+    "ability": "happiness_increase",
+    "increasePercent": 8,
+    "emoji": "🐠"
+  },
+  {
+    "name": "Cat",
+    "type": "pet",
+    "price": 1500,
+    "sellPrice": 1050,
+    "description": "🐱 Boosts success in quiet jobs like writing or coding",
+    "ability": "boost_income",
+    "boostPercent": 10,
+    "emoji": "🐱"
+  },
+  {
+    "name": "Dog",
+    "type": "pet",
+    "price": 1400,
+    "sellPrice": 980,
+    "description": "🐶 Motivates you, reducing job cooldown by 5%",
+    "ability": "cooldown_reduce",
+    "reducePercent": 5,
+    "emoji": "🐶"
+  },
+  {
+    "name": "Parrot",
+    "type": "pet",
+    "price": 1600,
+    "sellPrice": 1120,
+    "description": "🦜 Increases chance of finding bonus rewards on jobs",
+    "ability": "bonus_chance",
+    "bonusChance": 8,
+    "emoji": "🦜"
+  },
+  {
+    "name": "Rabbit",
+    "type": "pet",
+    "price": 1300,
+    "sellPrice": 910,
+    "description": "🐇 Helps you stay focused, reducing job cooldown by 4%",
+    "ability": "cooldown_reduce",
+    "reducePercent": 4,
+    "emoji": "🐇"
+  },
+  {
+    "name": "Owl",
+    "type": "pet",
+    "price": 1700,
+    "sellPrice": 1190,
+    "description": "🦉 Great wisdom increases income from intellectual jobs",
+    "ability": "boost_income",
+    "boostPercent": 12,
+    "emoji": "🦉"
+  },
+  {
+    "name": "Fox",
+    "type": "pet",
+    "price": 1550,
+    "sellPrice": 1085,
+    "description": "🦊 Cleverness boosts your chance to earn bonus coins",
+    "ability": "bonus_chance",
+    "bonusChance": 10,
+    "emoji": "🦊"
+  }
+]

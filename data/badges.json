@@ -1,0 +1,110 @@
+[
+  {
+    "id": "worker",
+    "name": "🏅 Worker Badge",
+    "description": "Work 10 times",
+    "condition": {
+      "type": "work",
+      "amount": 10
+    }
+  },
+  {
+    "id": "spender",
+    "name": "💸 Spender Badge",
+    "description": "Spend 10,000 coins",
+    "condition": {
+      "type": "spend",
+      "amount": 10000
+    }
+  },
+  {
+    "id": "gambler",
+    "name": "🎰 Lucky Gambler Badge",
+    "description": "Win 5 gambles",
+    "condition": {
+      "type": "gamble_win",
+      "amount": 5
+    }
+  },
+  {
+    "id": "beggar",
+    "name": "🙌 Begging Master Badge",
+    "description": "Beg 20 times",
+    "condition": {
+      "type": "beg",
+      "amount": 20
+    }
+  },
+  {
+    "id": "achiever",
+    "name": "🏆 Achiever Badge",
+    "description": "Unlock 10 achievements",
+    "condition": {
+      "type": "achievements",
+      "amount": 10
+    }
+  },
+  {
+    "id": "lumberjack",
+    "name": "🌲 Lumberjack Badge",
+    "description": "Chop 100 trees",
+    "condition": {
+      "type": "chop_trees",
+      "amount": 100
+    }
+  },
+  {
+    "id": "photographer",
+    "name": "📸 Photographer Badge",
+    "description": "Take 50 photos",
+    "condition": {
+      "type": "take_photos",
+      "amount": 50
+    }
+  },
+  {
+    "id": "artist",
+    "name": "🎨 Artist Badge",
+    "description": "Create 20 art pieces",
+    "condition": {
+      "type": "create_art",
+      "amount": 20
+    }
+  },
+  {
+    "id": "mechanic",
+    "name": "🔧 Mechanic Badge",
+    "description": "Fix 30 items",
+    "condition": {
+      "type": "fix_items",
+      "amount": 30
+    }
+  },
+  {
+    "id": "designer",
+    "name": "🖌️ Designer Badge",
+    "description": "Design 10 items",
+    "condition": {
+      "type": "design_items",
+      "amount": 10
+    }
+  },
+  {
+    "id": "fisher",
+    "name": "🎣 Fisher Badge",
+    "description": "Catch 50 fish",
+    "condition": {
+      "type": "catch_fish",
+      "amount": 50
+    }
+  },
+  {
+    "id": "rich",
+    "name": "💰 Rich Badge",
+    "description": "Have 100,000 coins in your wallet",
+    "condition": {
+      "type": "wallet_balance",
+      "amount": 100000
+    }
+  }
+]

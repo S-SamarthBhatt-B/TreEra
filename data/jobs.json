@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Developer",
+    "description": "💻 Write code and fix bugs.",
+    "requiredTool": "Laptop",
+    "minEarnings": 100,
+    "maxEarnings": 250,
+    "emoji": "💻"
+  },
+  {
+    "name": "Miner",
+    "description": "⛏️ Mine ores and gems.",
+    "requiredTool": "Pickaxe",
+    "minEarnings": 80,
+    "maxEarnings": 200,
+    "emoji": "⛏️"
+  },
+  {
+    "name": "Fisherman",
+    "description": "🎣 Catch fish from rivers.",
+    "requiredTool": "Fishing Rod",
+    "minEarnings": 70,
+    "maxEarnings": 180,
+    "emoji": "🎣"
+  },
+  {
+    "name": "Farmer",
+    "description": "🌾 Harvest crops.",
+    "requiredTool": "Hoe",
+    "minEarnings": 60,
+    "maxEarnings": 160,
+    "emoji": "🌾"
+  },
+  {
+    "name": "Lumberjack",
+    "description": "🪓 Chop down trees and collect wood.",
+    "requiredTool": "Axe",
+    "minEarnings": 70,
+    "maxEarnings": 190,
+    "emoji": "🪓"
+  },
+  {
+    "name": "Gardener",
+    "description": "🧹 Dig and maintain beautiful gardens.",
+    "requiredTool": "Shovel",
+    "minEarnings": 60,
+    "maxEarnings": 170,
+    "emoji": "🧹"
+  },
+  {
+    "name": "Mechanic",
+    "description": "🔧 Fix vehicles and machines.",
+    "requiredTool": "Wrench",
+    "minEarnings": 90,
+    "maxEarnings": 220,
+    "emoji": "🔧"
+  },
+  {
+    "name": "Artist",
+    "description": "🎨 Create paintings and digital art.",
+    "requiredTool": "Paintbrush",
+    "minEarnings": 75,
+    "maxEarnings": 200,
+    "emoji": "🎨"
+  },
+  {
+    "name": "Designer",
+    "description": "🖌️ Design logos, websites, and branding.",
+    "requiredTool": "Paintbrush",
+    "minEarnings": 80,
+    "maxEarnings": 210,
+    "emoji": "🖌️"
+  },
+  {
+    "name": "Photographer",
+    "description": "📸 Take and sell stunning photos.",
+    "requiredTool": "Camera",
+    "minEarnings": 85,
+    "maxEarnings": 200,
+    "emoji": "📸"
+  }
+]

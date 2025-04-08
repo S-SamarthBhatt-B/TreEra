@@ -1,0 +1,21 @@
+{
+    "cat": {
+      "price": 1000,
+      "boost": 1.1,
+      "emoji": "🐱",
+      "description": "A loyal cat that gives you a small boost in work earnings."
+    },
+    "dog": {
+      "price": 2000,
+      "boost": 1.2,
+      "emoji": "🐶",
+      "description": "A helpful dog that gives you a moderate boost in work earnings."
+    },
+    "dragon": {
+      "price": 10000,
+      "boost": 2.0,
+      "emoji": "🐉",
+      "description": "A legendary dragon that doubles your work income!"
+    }
+  }
+  

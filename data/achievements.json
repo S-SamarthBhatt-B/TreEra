@@ -1,0 +1,143 @@
+[
+    {
+      "id": "first_coins",
+      "name": "First Coins",
+      "description": "Earn your first 100 coins.",
+      "type": "money",
+      "requirement": 100
+    },
+    {
+      "id": "richie_rich",
+      "name": "Richie Rich",
+      "description": "Reach 10,000 coins.",
+      "type": "money",
+      "requirement": 10000
+    },
+    {
+      "id": "millionaire",
+      "name": "Millionaire",
+      "description": "Reach 1,000,000 coins.",
+      "type": "money",
+      "requirement": 1000000
+    },
+    {
+      "id": "beginner_beggar",
+      "name": "Beginner Beggar",
+      "description": "Use /beg 5 times.",
+      "type": "beg",
+      "requirement": 5
+    },
+    {
+      "id": "workaholic",
+      "name": "Workaholic",
+      "description": "Use /work 10 times.",
+      "type": "work",
+      "requirement": 10
+    },
+    {
+      "id": "the_gambler",
+      "name": "The Gambler",
+      "description": "Use /gamble 10 times.",
+      "type": "gamble",
+      "requirement": 10
+    },
+    {
+      "id": "first_purchase",
+      "name": "First Purchase",
+      "description": "Buy any item from the shop.",
+      "type": "shop",
+      "requirement": 1
+    },
+    {
+      "id": "collector",
+      "name": "Collector",
+      "description": "Own 10 different items.",
+      "type": "inventory",
+      "requirement": 10
+    },
+    {
+      "id": "tool_tycoon",
+      "name": "Tool Tycoon",
+      "description": "Own all job tools.",
+      "type": "tools",
+      "requirement": "all"
+    },
+    {
+      "id": "animal_lover",
+      "name": "Animal Lover",
+      "description": "Equip a pet.",
+      "type": "pets",
+      "requirement": 1
+    },
+    {
+      "id": "trainer",
+      "name": "Trainer",
+      "description": "Train your pet 10 times.",
+      "type": "train_pet",
+      "requirement": 10
+    },
+    {
+      "id": "happy_buddy",
+      "name": "Happy Buddy",
+      "description": "Keep a pet's happiness above 90% for a day.",
+      "type": "pet_happiness",
+      "requirement": 90
+    },
+    {
+      "id": "new_recruit",
+      "name": "New Recruit",
+      "description": "Join your first job.",
+      "type": "jobs",
+      "requirement": 1
+    },
+    {
+      "id": "employee_of_the_month",
+      "name": "Employee of the Month",
+      "description": "Work 20 times.",
+      "type": "work",
+      "requirement": 20
+    },
+    {
+      "id": "career_hopper",
+      "name": "Career Hopper",
+      "description": "Leave 5 different jobs.",
+      "type": "leavejob",
+      "requirement": 5
+    },
+    {
+      "id": "achiever",
+      "name": "Achiever",
+      "description": "Unlock 5 achievements.",
+      "type": "achievements",
+      "requirement": 5
+    },
+    {
+      "id": "badge_collector",
+      "name": "Badge Collector",
+      "description": "Claim 3 different badges.",
+      "type": "badges",
+      "requirement": 3
+    },
+    {
+      "id": "crate_opener",
+      "name": "Crate Opener",
+      "description": "Open 10 loot crates.",
+      "type": "crates",
+      "requirement": 10
+    },
+    {
+      "id": "bank_it",
+      "name": "Bank It!",
+      "description": "Deposit over 10,000 coins into the bank.",
+      "type": "bank",
+      "requirement": 10000
+    },
+    {
+      "id": "stonks_only_go_up",
+      "name": "Stonks Only Go Up",
+      "description": "Gain coins from a gamble win 5 times in a row.",
+      "type": "gamble_streak",
+      "requirement": 5
+    }
+  ]
+  
